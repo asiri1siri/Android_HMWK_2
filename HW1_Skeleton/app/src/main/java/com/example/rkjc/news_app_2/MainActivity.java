@@ -13,6 +13,10 @@ import android.view.MenuItem;
 import java.util.ArrayList;
 import java.util.List;
 
+//
+//  OLD news from cache/room + NEW news from refresh/sync
+//
+
 public class MainActivity extends AppCompatActivity {
     private static final String TAG = "MainActivity";
     private RecyclerView mRecyclerView;
